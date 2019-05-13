@@ -1,5 +1,5 @@
 """ Version 1.0.1 """
-# Snake Game By Tan
+
 # Importing modules
 import sys, random, time, pygame
 
