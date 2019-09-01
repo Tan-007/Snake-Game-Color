@@ -93,7 +93,7 @@ def game_over():
 
 # Main logic
 def main():
-    global changeto, direction, scolor, fspawn, score, fcolor, fspawn, fpos
+    global changeto, direction, scolor, fspawn, score, fcolor, fspawn, fpos, snake_pos
     i = 10
     while True:
         for event in pygame.event.get():
